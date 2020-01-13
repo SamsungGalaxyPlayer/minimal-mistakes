@@ -7,8 +7,8 @@ header:
   overlay_image: "https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/berlin-banner.jpg"
 feature_row:
   - image_path: https://riat.at/wp-content/uploads/RIAT.svg
-    title: "RIAT - Institute for Future Cryptoeconomics"
-    excerpt: "RIAT is an independent organisation established in Vienna in 2012. It consists of an international network of researchers, developers and experimentalists who seek to advance the adoption of cryptography and privacy technology across disciplines."
+    title: ""
+    excerpt: "RIAT - Institute for Future Cryptoeconomics - is an independent organisation established in Vienna in 2012. It consists of an international network of researchers, developers and experimentalists who seek to advance the adoption of cryptography and privacy technology across disciplines."
     url: "https://riat.at"
     btn_class: "btn--primary"
     btn_label: "Learn more"
