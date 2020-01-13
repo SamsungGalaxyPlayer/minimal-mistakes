@@ -18,10 +18,10 @@ feature_row:
     url: "https://www.noahwagner.com"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/mm-customizable-feature.png
-    title: "Sponsor 3"
-    excerpt: "Donec quis nisl in arcu consectetur elementum. Aliquam ac risus nulla."
-    url: "/"
+  - image_path: https://cdn.shopify.com/s/files/1/0068/2142/files/Hak5_White-1024x576.png
+    title: ""
+    excerpt: "Award winning podcasts – Renowned Pentest Gear – Immersive Infosec Training. We love to hack, and we're inspired by the open & supportive nature of the hacker culture. At Hak5 we're committed to elevating the information security industry, by educating, equipping and encouraging this all-inclusive community – one where all hackers belong."
+    url: "https://shop.hak5.org"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/mm-customizable-feature.png
