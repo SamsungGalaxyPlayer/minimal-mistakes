@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Important Info"
-    url: /important-info/
+    url: /day1/
   - title: "CFP"
     url: /cfp/
   - title: "Sponsors and Media Partners"
