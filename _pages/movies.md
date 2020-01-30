@@ -9,22 +9,22 @@ header:
 sidebar:
   nav: "sidebar"
 feature_row:
-  - image_path: https://riat.at/wp-content/uploads/RIAT.svg
-    title: ""
-    excerpt: "RIAT - Institute for Future Cryptoeconomics - is an independent organisation established in Vienna in 2012. It consists of an international network of researchers, developers and experimentalists who seek to advance the adoption of cryptography and privacy technology across disciplines."
-    url: "https://riat.at"
+  - image_path: https://m.media-amazon.com/images/M/MV5BYjA1ODllNmEtODBiMC00YWI3LTlmZjEtNzA2N2YzYzEzNTQ5XkEyXkFqcGdeQXVyODU5MTY2MzU@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+    title: "Regulation (2019)"
+    excerpt: "Every child has the right to be happy - by law." are the words of a future social worker, forcing a happy patch/micro doser on a girl, living isolated with her mom."
+    url: "https://www.imdb.com/title/tt8984420/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://images.squarespace-cdn.com/content/5be4a22850a54f11a461166d/1547790855152-90R77T1M2C1PPWUUDE8I/Logo-4+dark.png
-    title: ""
-    excerpt: "an award-winning director, writer and filmmaker, and a graduate of NYU’s Tisch School of the Arts. Noah specializes in ‘grounded genre’ – everything from science fiction to magical realism, moody atmosphere to playful whimsy, and any permutation in between – but always building a world rooted in our own. Through a lyrical lens and an eye for the absurd, he always seeks the truth and believes a good story is as strong as its characters are relatable."
-    url: "https://www.noahwagner.com"
+  - image_path: https://m.media-amazon.com/images/M/MV5BNDliYzY4ZDAtYzdlZi00NmI2LWFiYjctM2YxNTQwNGU1NWFiXkEyXkFqcGdeQXVyMjY3NDMxMzI@._V1_.jpg
+    title: "Watch Room (2019)"
+    excerpt: "Lifelong friends and scientists Nate, Chloe and Bernard believe they are safely creating A.I. within virtual reality, until their creation, Kate, learns it's at risk of being shut down."
+    url: "https://www.imdb.com/title/tt6849534/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://cdn.shopify.com/s/files/1/0068/2142/files/Hak5_White-1024x576.png
-    title: ""
-    excerpt: "Award winning podcasts – Renowned Pentest Gear – Immersive Infosec Training. We love to hack, and we're inspired by the open & supportive nature of the hacker culture. At Hak5 we're committed to elevating the information security industry, by educating, equipping and encouraging this all-inclusive community – one where all hackers belong."
-    url: "https://shop.hak5.org"
+  - image_path: https://m.media-amazon.com/images/M/MV5BYWUwM2NiOGUtZjA0NC00YWRmLWJkNDMtZmY3ODA2ZGMwODczXkEyXkFqcGdeQXVyNTA2NDUwNjA@._V1_SY1000_CR0,0,647,1000_AL_.jpg
+    title: "Orbit (2019)"
+    excerpt: "The younger of two men on a spaceship in orbit goes insane, obsessed with the older man's white eyeball and awaits opportunity to take it."
+    url: "https://www.imdb.com/title/tt3548892/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/cakewallet.jpg
@@ -46,7 +46,5 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
-
-Please see below a list of our sponsors and media partners. Sponsorship takes place in tiers, and each tier comes with perks. These perks range from booth space to free advertising with swag bag merchandise and webcast shout-outs. We are also making press passes available to media partners interested in covering the conference.
 
 {% include feature_row %}
