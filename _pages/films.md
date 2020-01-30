@@ -15,12 +15,6 @@ feature_row:
     url: "https://www.imdb.com/title/tt8984420/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/watchr-room.jpg
-    title: "Watch Room (2019)"
-    excerpt: "Lifelong friends and scientists Nate, Chloe and Bernard believe they are safely creating A.I. within virtual reality, until their creation, Kate, learns it's at risk of being shut down."
-    url: "https://www.imdb.com/title/tt6849534/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/orbit.jpg
     title: "Orbit (2019)"
     excerpt: "The younger of two men on a spaceship in orbit goes insane, obsessed with the older man's white eyeball and awaits opportunity to take it."
@@ -31,6 +25,12 @@ feature_row:
     title: "Skywatch (2019)"
     excerpt: "When two outcast teens hack into a drone delivery system to pull a prank on the girl next door, they accidentally redirect a critical shipment and find themselves entangled in a life-and-death political conspiracy."
     url: "https://www.imdb.com/title/tt10306018/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/watchr-room.jpg
+    title: "Watch Room (2019)"
+    excerpt: "Lifelong friends and scientists Nate, Chloe and Bernard believe they are safely creating A.I. within virtual reality, until their creation, Kate, learns it's at risk of being shut down."
+    url: "https://www.imdb.com/title/tt6849534/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/server-room.jpg
