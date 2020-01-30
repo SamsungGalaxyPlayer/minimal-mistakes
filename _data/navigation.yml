@@ -13,7 +13,7 @@ main:
 
 sidebar:
   - title: "Schedule"
-    url: /important-info/
+    url: /day1/
     children:
       - title: "Day 1"
         url: /day1/
