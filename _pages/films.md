@@ -1,6 +1,7 @@
 ---
 title: Moive Night
 permalink: /films/
+author_profile: false
 classes: wide
 header:
   overlay_color: "#5e616c"
@@ -36,6 +37,8 @@ feature_row:
     url: "http://forever-pictures.com/abcdcd"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+sidebar:
+  nav: "sidebar"
 ---
 
 {% include feature_row %}
