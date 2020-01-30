@@ -6,6 +6,8 @@ classes: wide
 header:
   overlay_color: "#5e616c"
   overlay_image: "https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/berlin-banner.jpg"
+sidebar:
+  nav: "sidebar"
 feature_row:
   - image_path: https://m.media-amazon.com/images/M/MV5BYjA1ODllNmEtODBiMC00YWI3LTlmZjEtNzA2N2YzYzEzNTQ5XkEyXkFqcGdeQXVyODU5MTY2MzU@._V1_SY1000_CR0,0,675,1000_AL_.jpg
     title: "Regulation (2019)"
@@ -37,8 +39,6 @@ feature_row:
     url: "http://forever-pictures.com/abcdcd"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-sidebar:
-  nav: "sidebar"
 ---
 
 {% include feature_row %}
