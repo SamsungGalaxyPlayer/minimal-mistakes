@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Call for Presentations/Call for Workshops
+title: Monero Konferenco 2020 Call for Presentations/Call for Workshops
 permalink: /cfp/
 header:
   overlay_color: "#5e616c"
@@ -12,10 +12,10 @@ This second edition of the Monero Konferenco strives to provide the same high-qu
 
 This year’s Konferenco will group content under the following four frames, though proposals may fit into these categories broadly if otherwise relevant as they are not to be seen as overly prescriptive:
 
-i. Cryptography
-ii. Security
-iii. Networks
-iv. Governance
+1. Cryptography
+2. Security
+3. Networks
+4. Governance
 
 The above frames allow for the inclusion of a range of topics, but we encourage submissions focused specifically on applications relevant to the Monero protocol, technologies, platform, ecosystem and community. We are also very keen to schedule presentations concerned with the broader field of cryptocurrency, with preference given to submissions focused on unique privacy-preserving cryptographic methods, novel implementations of zero-knowledge cryptographic schemes, innovative privacy-enhancing technologies and/or platforms, as well as content focused on constructs such as decentralisation, politics, philosophy, the environment, and cryptocurrency legal and regulatory frameworks.
 
@@ -25,14 +25,14 @@ There will be funds available for speakers and workshop providers to cover trave
 
 Submissions will be blind reviewed by a selection committee, the names of which appear below.
 
-@binaryFate
-@sarang
-@suraeNoether
-@parasew
-@deedledea
-@midipoet
-@sgp
-@ajs
+- @binaryFate
+- @sarang
+- @suraeNoether
+- @parasew
+- @deedledea
+- @midipoet
+- @sgp
+- @ajs
 
 We ask that you provide a short abstract (500 words max), description, or outline of your proposed talk or workshop, including information on any specific technical requirements you may have. We also request that you provide a short speaker biography (250 words max).
 
