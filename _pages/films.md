@@ -11,7 +11,7 @@ sidebar:
 feature_row:
   - image_path: https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/regulation.jpg
     title: "Regulation (2019)"
-    excerpt: "Every child has the right to be happy - by law." are the words of a future social worker, forcing a happy patch/micro doser on a girl, living isolated with her mom."
+    excerpt: "Every child has the right to be happy - by law - are the words of a future social worker, forcing a happy patch/micro doser on a girl, living isolated with her mom."
     url: "https://www.imdb.com/title/tt8984420/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
