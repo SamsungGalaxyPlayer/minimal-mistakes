@@ -34,7 +34,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/server-room.jpg
-    title: "Server Room (2019)"
+    title: ""
     excerpt: "Based on Richard Brautigan poem All watched over by machines of loving grace, 1967. Dystopia is no longer tomorrow. It is here, now and today. Entropy is real and will never stop."
     url: "http://forever-pictures.com/abcdcd"
     btn_class: "btn--primary"
