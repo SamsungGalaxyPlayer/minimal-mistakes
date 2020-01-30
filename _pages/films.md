@@ -1,5 +1,5 @@
 ---
-title: Moive Night
+title: Short Films
 permalink: /films/
 author_profile: false
 classes: wide
@@ -15,16 +15,16 @@ feature_row:
     url: "https://www.imdb.com/title/tt8984420/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/orbit.jpg
-    title: ""
-    excerpt: "The younger of two men on a spaceship in orbit goes insane, obsessed with the older man's white eyeball and awaits opportunity to take it."
-    url: "https://www.imdb.com/title/tt3548892/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/skywatch.jpg
     title: ""
     excerpt: "When two outcast teens hack into a drone delivery system to pull a prank on the girl next door, they accidentally redirect a critical shipment and find themselves entangled in a life-and-death political conspiracy."
     url: "https://www.imdb.com/title/tt10306018/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/orbit.jpg
+    title: ""
+    excerpt: "The younger of two men on a spaceship in orbit goes insane, obsessed with the older man's white eyeball and awaits opportunity to take it."
+    url: "https://www.imdb.com/title/tt3548892/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/watchr-room.jpg
