@@ -27,7 +27,7 @@ feature_row:
     url: "https://www.imdb.com/title/tt3548892/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/watchr-room.jpg
+  - image_path: https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/watch-room.jpg
     title: ""
     excerpt: "Lifelong friends and scientists Nate, Chloe and Bernard believe they are safely creating A.I. within virtual reality, until their creation, Kate, learns it's at risk of being shut down."
     url: "https://www.imdb.com/title/tt6849534/"
