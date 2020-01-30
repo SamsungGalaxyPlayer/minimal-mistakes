@@ -40,3 +40,6 @@ We ask that you provide a short abstract (500 words max), description, or outlin
 
 
 [Apply Now]({{ "https://monero.sandcats.io/shared/HyGJRZ3jsW6sQIqrg2fng3islzJdyrAQaOZzj3sz418" | relative_url }}){: .btn .btn--success .btn--large}
+
+To submit another entry, please close the window and open up a new window in private/incognito browsing mode.
+ 
