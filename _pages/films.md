@@ -1,5 +1,5 @@
 ---
-title: Short Films
+title: Short Film Screening
 permalink: /films/
 author_profile: false
 classes: wide
