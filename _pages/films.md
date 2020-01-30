@@ -17,7 +17,7 @@ feature_row:
     btn_label: "Learn more"
   - image_path: https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/skywatch.jpg
     title: ""
-    excerpt: "When two outcast teens hack into a drone delivery system to pull a prank on the girl next door, they accidentally redirect a critical shipment and find themselves entangled in a life-and-death political conspiracy."
+    excerpt: "When two outcast teens hack into a drone delivery system to pull a prank on the girl next door, they accidentally redirect a critical shipment."
     url: "https://www.imdb.com/title/tt10306018/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
